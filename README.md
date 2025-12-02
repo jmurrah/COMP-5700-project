@@ -22,14 +22,12 @@ This project uses Poetry as it's dependency manager.
 https://python-poetry.org/docs/#installation
 ```
 
-## Installation
-
+## Execution Instructions
+1. Install dependencies using poetry
 ```
 poetry install
 ```
-
-## Running
-
+2. Execute project script to complete tasks
 ```
 poetry run python3 comp_5700_project/main.py
 ```
@@ -58,6 +56,11 @@ COMP-5700-Project/
 │   ├── task5.py
 │   └── utils.py                # Utility functions
 ├── generated_csv_files/        # Output directory
+│   ├── task1.csv               # Task csv output files
+│   ├── task2.csv
+│   ├── task3.csv
+│   ├── task4.csv
+│   ├── task5.csv
 │   └── README.md               # Documentation for output files
 ├── poetry.lock                 # Poetry dependency lock file
 ├── pyproject.toml              # Project configuration
