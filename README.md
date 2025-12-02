@@ -8,7 +8,11 @@ https://github.com/paser-group/continuous-secsoft/tree/master/fall25-ssp/project
 
 ## Group Members
 
-Jacob Murrah, Cooper Jackson, JD Wilks
+| Name           | Email              |
+|----------------|--------------------|
+| Cooper Jackson | cej0054@auburn.edu |
+| Jacob Murrah   | jhm0068@auburn.edu |
+| JD Wilks       | jdw0143@auburn.edu |
 
 ## Downloading Poetry
 
